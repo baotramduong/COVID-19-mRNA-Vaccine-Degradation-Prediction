@@ -1,5 +1,9 @@
 # COVID-19- mRNA Vaccine Degradation Prediction with Bi-directional GRU
 
+## Blog
+
+[Medium Blog](https://baotramduong.medium.com/covid-19-mrna-vaccine-degradation-prediction-with-deep-learning-bidirectional-gru-5c3549823057 "Blog")
+
 ## Introduction
 
 <img src = '../main/Data & Images/RNA COVID-19.png'>
@@ -57,8 +61,10 @@ However, one of the biggest challenges right now is how to design super stable m
 Abbasi (2020) Abbasi J. Covid-19 and mRNA vaccines - first large test for a new approach. JAMA. 2020;324(12):1125–1127. doi: 10.1001/jama.2020.16866.
 
 Coronavirus cases. Worldometer. (Sep 2021). https://www.worldometers.info/coronavirus/.
+Phi, M. (2020, June 28). Illustrated Guide to LSTM’s and GRU’s: A step by step explanation. Medium. https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21.
 
 Qaid, T. S., Mazaar, H., Alqahtani, M. S., Raweh, A. A., & Alakwaa, W. (2021). Deep sequence modeling for predicting COVID-19 mRNA vaccine degradation. PeerJ. Computer science, 7, e597. https://doi.org/10.7717/peerj-cs.597
 
 Qureshi, M. (n.d.). COVID-19 mRNA Vaccine Degradation Prediction [MOOC]. Coursera. https://www.coursera.org/projects/covid-19-mrna-vaccine-degradation-prediction
+
 Stanford University (2020) Stanford University OpenVaccine: COVID-19 mRNA vaccine degradation prediction. [8 October 2020]. https://www.kaggle.com/c/stanford-covid-vaccine/data
