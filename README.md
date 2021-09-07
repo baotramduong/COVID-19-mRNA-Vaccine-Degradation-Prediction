@@ -16,6 +16,9 @@ Messenger RNA molecules (mRNA) vaccines have taken the lead as the fastest vacci
 
 However, one of the biggest challenges right now is how to design super stable mRNA. Researchers have observed that RNA molecules have the tendency to spontaneously degrade. This is a serious limitation - a single cut can render the mRNA vaccine useless. Currently, little is known on the details of where in the backbone of a given RNA is most prone to being affected. Without this knowledge, current mRNA vaccines against COVID-19 must be prepared and shipped under intense refrigeration, and are unlikely to reach more than a tiny fraction of human beings on the planet unless they can be stabilized.
 
+## Business Statement
+The goal of this project is to build a model which will predict the degradation rates at each base of an RNA molecule which can be useful to develop models and design rules for RNA degradation to accelerate mRNA vaccine research and deliver a refrigerator-stable vaccine against SARS-CoV-2, the virus behind COVID-19.
+
 ## Data Source
 
 <img src = '../main/Data & Images/df_info.png' height='75%' width='75%'>
