@@ -4,7 +4,7 @@
 
 ## Data Source
 
-<img src = '../main/Data & Images/df_info.png'>
+<img src = '../main/Data & Images/df_info.png' height='75%' width='75%'>
 
 ## Summary of Findings
 
