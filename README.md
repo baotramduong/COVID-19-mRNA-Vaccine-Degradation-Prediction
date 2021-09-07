@@ -2,6 +2,8 @@
 
 ## Introduction
 
+<img src = '../main/Data & Images/RNA COVID-19.png'>
+
 ## Data Source
 
 <img src = '../main/Data & Images/df_info.png' height='75%' width='75%'>
